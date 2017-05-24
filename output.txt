@@ -1,0 +1,21 @@
+£ªProcess init is running 
+Init_1
+x
+x
+x
+x
+p
+p
+q
+q
+r
+r
+x
+p
+q
+r
+x
+x
+x
+p
+END
